@@ -10,7 +10,7 @@ This tool was written in rust using the termion library.
 ## To import in Anki
 1. Press `Import File`
 2. Select your outputted text file
-3. Choose the settings shown below *(select the deck you want)r*
+3. Choose the settings shown below *(select the deck you want)*
 
 ![](images/import.png)
 
